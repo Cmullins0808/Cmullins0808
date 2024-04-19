@@ -20,9 +20,9 @@
 
 <b>Training</b>
 
- [Cisco CCST Networking Certification](https://www.credly.com/badges/4703e3e8-9f5b-4c4f-866c-54d20ef5eb2a)
-  - [Networking Basics](https://www.credly.com/badges/3f4591c2-6780-40db-ae5d-f3769c531567)
-  - [Networking Devices and Initial Configuration](https://www.credly.com/badges/0445d50e-2f85-4dde-8650-0af909ad64a6)
+ [Cisco CCST Networking Certification](https://www.credly.com/badges/4703e3e8-9f5b-4c4f-866c-54d20ef5eb2a/public_url)
+  - [Networking Basics](https://www.credly.com/badges/5faa9340-f59f-4f5a-b0ef-319b04396d6b/public_url)
+  - [Networking Devices and Initial Configuration](https://www.credly.com/badges/0445d50e-2f85-4dde-8650-0af909ad64a6/public_url)
   - [Network Addressing and Basic Troubleshooting](https://www.credly.com/badges/5faa9340-f59f-4f5a-b0ef-319b04396d6b)
   - [Network Support and Security](https://www.credly.com/badges/38d2f62c-ebb6-43a6-a9f2-74d345707f2f)
   - [Network Technician Career Path Exam](https://www.credly.com/badges/f4f0a874-bb15-4450-864e-f19b61bb525c)
@@ -43,9 +43,9 @@
  Cisco CCST Cybersecurity Certification(In-Progress)
 
   - [Introduction to Cybersecurity](https://www.credly.com/earner/earned/badge/a584fe6a-72e3-4acb-8573-f387c4d05a49)
-  - [Networking Basics](https://www.credly.com/badges/3f4591c2-6780-40db-ae5d-f3769c531567)
-  - [Networking Devices and Initial Configuration](https://www.credly.com/badges/0445d50e-2f85-4dde-8650-0af909ad64a6)
-  - [Endpoint Security](https://www.credly.com/earner/earned/badge/471832f3-87c5-4a60-9001-257e19881b5f)
+  - [Networking Basics](https://www.credly.com/badges/5faa9340-f59f-4f5a-b0ef-319b04396d6b/public_url)
+  - [Networking Devices and Initial Configuration](https://www.credly.com/badges/0445d50e-2f85-4dde-8650-0af909ad64a6/public_url)
+  - [Endpoint Security](https://www.credly.com/badges/471832f3-87c5-4a60-9001-257e19881b5f/public_url)
   - Network Defense(In Progress)
   - Cyber Threat Management(In Progress)
   - Junior Cybersecurity Analyst Career Path Exam(Scheduled 5/15/2024)
