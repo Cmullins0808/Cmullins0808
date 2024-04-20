@@ -38,7 +38,10 @@
   - [Tools of the Trade: Linux & SQL](https://www.coursera.org/account/accomplishments/verify/WN6FJBDCFKTP)
   - [Assets,Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/WD5RBQXGY22H)
   - [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/X99NFK7XK6DA)
-  - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/NCPR6BAGNQQN)
+  - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/NCPR6BAGNQQ)
+
+   <b>Projects</b>
+   
 
  Cisco CCST Cybersecurity Certification(In-Progress)
 
