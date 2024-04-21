@@ -1,4 +1,4 @@
-<h1>Hi, I'm Courtney! <br/><a href="https://www.credly.com/badges/4703e3e8-9f5b-4c4f-866c-54d20ef5eb2a">Cisco Certified Support Technician Networking</a>, <a href="https://www.linkedin.com/in/courtney-mullins-b611502a8//">IT Professional</a>, <a href="https://www.freecodecamp.org/CourtneyMullins">Early-stage Developer</a>, <a href="https://www.coursera.org/account/accomplishments/professional-cert/HF7QCCZ3E2MF">CyberSecurity Analyst</a></h1>
+<h1>Hi, I'm Courtney! <br/><a href="https://www.credly.com/badges/4703e3e8-9f5b-4c4f-866c-54d20ef5eb2a">Cisco Certified Support Technician Networking</a>, <a href="https://www.linkedin.com/in/courtney-mullins-b611502a8//">IT Professional</a>, <a href="https://www.freecodecamp.org/CourtneyMullins">Early-stage Developer</a>, <a href="https://www.credly.com/badges/2d2a576b-7d83-42d3-b592-0bdd24a98acb/public_url">CyberSecurity Analyst</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
