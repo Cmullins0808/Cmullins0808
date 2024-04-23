@@ -1,6 +1,6 @@
-<h1>Hi, I'm Courtney! <br/><a href="https://www.credly.com/badges/4703e3e8-9f5b-4c4f-866c-54d20ef5eb2a">Cisco Certified Support Technician Networking</a>, <a href="https://www.linkedin.com/in/courtney-mullins-b611502a8//">IT Professional</a>, <a href="https://www.freecodecamp.org/CourtneyMullins">Early-stage Developer</a>, <a href="https://www.credly.com/badges/2d2a576b-7d83-42d3-b592-0bdd24a98acb/public_url">CyberSecurity Analyst</a></h1>
+<h1>Hi, I'm Courtney! <br/><a href="https://www.credly.com/badges/4703e3e8-9f5b-4c4f-866c-54d20ef5eb2a">Cisco Certified Support Technician Networking</a>, <a href="https://www.linkedin.com/in/courtney-mullins-b611502a8//">IT Professional</a>, <a href="https://www.freecodecamp.org/CourtneyMullins">Early-stage Developer</a>, <a href="https://www.credly.com/badges/2d2a576b-7d83-42d3-b592-0bdd24a98acb/public_url">Jr. CyberSecurity Analyst</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development</h2>
 
  <b>Responsive Web Design</b>
  
@@ -41,13 +41,13 @@
   - [Networking Basics](https://www.credly.com/badges/5faa9340-f59f-4f5a-b0ef-319b04396d6b/public_url)
   - [Networking Devices and Initial Configuration](https://www.credly.com/badges/0445d50e-2f85-4dde-8650-0af909ad64a6/public_url)
   - [Endpoint Security](https://www.credly.com/badges/471832f3-87c5-4a60-9001-257e19881b5f/public_url)
-  - Network Defense(In Progress)
-  - Cyber Threat Management(In Progress)
-  - Junior Cybersecurity Analyst Career Path Exam(Scheduled 5/15/2024)
+  - Network Defense
+  - Cyber Threat Management
+  - Junior Cybersecurity Analyst Career Path Exam
 
 <h2>Microsoft Azure</h2>  
 
-<b>Fundamentals<b>
+<b>Fundamentals(Exam scheduled 4/25/2024)<b>
 
  - [Describe cloud concepts](https://learn.microsoft.com/api/achievements/share/en-us/CourtneyMullins-8507/8YFSL9CW?sharingId=5A4DF95A1C902EAE)
  - [Describe the Azure architecture and services](https://learn.microsoft.com/api/achievements/share/en-us/CourtneyMullins-8507/JCG4PQHT?sharingId=5A4DF95A1C902EAE0)
