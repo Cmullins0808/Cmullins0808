@@ -44,6 +44,25 @@
   - Network Defense(In Progress)
   - Cyber Threat Management(In Progress)
   - Junior Cybersecurity Analyst Career Path Exam(Scheduled 5/15/2024)
+
+<h2>Microsoft Azure</h2>  
+
+<b>Fundamentals<b>
+
+ - [Describe cloud concepts](https://learn.microsoft.com/api/achievements/share/en-us/CourtneyMullins-8507/8YFSL9CW?sharingId=5A4DF95A1C902EAE)
+ - [Describe the Azure architecture and services](https://learn.microsoft.com/api/achievements/share/en-us/CourtneyMullins-8507/JCG4PQHT?sharingId=5A4DF95A1C902EAE0)
+ - [Describe Azure Management and governance](https://learn.microsoft.com/api/achievements/share/en-us/CourtneyMullins-8507/HRX9FSQ8?sharingId=5A4DF95A1C902EAE)
+   
+ <b>Azure Administrator Associate(In- Progress)</b>
+ 
+ - [Pre-requisites for Azure Administrator](https://learn.microsoft.com/api/achievements/share/en-us/CourtneyMullins-8507/UXY5ADL3?sharingId=5A4DF95A1C902EAE) 
+ - Manage identities and governance
+ - Implement and manage storage in Azure
+ - Deploy and manage Azure compute resourses
+ - Configure and manage virtual networks for Azure administrators
+ - Monitor and back up Azure resources
+
+
     
  <b>Projects</b>
   - [TryHackMe (Pre-Security)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DGUKAKPIWH.png)
