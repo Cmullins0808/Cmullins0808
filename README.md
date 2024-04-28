@@ -47,7 +47,7 @@
 
 <h2>Microsoft Azure</h2>  
 
-<b>Fundamentals(Exam scheduled 4/25/2024)<b>
+<b>Fundamentals(https://learn.microsoft.com/api/credentials/share/en-us/CourtneyMullins-8507/A40DCCA646AF83C4?sharingId=5A4DF95A1C902EAE)<b>
 
  - [Describe cloud concepts](https://learn.microsoft.com/api/achievements/share/en-us/CourtneyMullins-8507/8YFSL9CW?sharingId=5A4DF95A1C902EAE)
  - [Describe the Azure architecture and services](https://learn.microsoft.com/api/achievements/share/en-us/CourtneyMullins-8507/JCG4PQHT?sharingId=5A4DF95A1C902EAE0)
