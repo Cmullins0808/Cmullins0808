@@ -24,6 +24,8 @@
   - [System Administration and IT Infrastructure](https://www.coursera.org/account/accomplishments/verify/9CYAJHDLNLLD)
   - [IT Security: Defense against the digital dark arts](https://www.coursera.org/account/accomplishments/verify/MF9YUHSEN4X6)
 
+ [Jason Dion's CompTIA A+ Core 1 course Certificate](https://www.udemy.com/certificate/UC-1a805d5d-739a-4a09-b14a-af9b5169939d/)
+
 <b>Experience</b>
 
   TeKSystems
