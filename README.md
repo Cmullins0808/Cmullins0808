@@ -60,6 +60,18 @@
    <h2>👨‍💻 Jr. Cybersecurity Analyst:</h2>
 
   <b>Training</b>
+
+   <html>
+     <head>
+       <img src="https://tryhackme-badges.s3.amazonaws.com/Bullishshe.png" alt="TryHackMe">
+     </head>
+   </html>
+
+   <b>Projects</b>
+  - [TryHackMe (Pre-Security)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DGUKAKPIWH.png)
+  - [TryHackMe(Introduction to Cybersecurity)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QRVJXJB81L.png)
+
+  <b>Certifications</b>
   
   [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/2d2a576b-7d83-42d3-b592-0bdd24a98acb/public_url)
   - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/XHPGBZ7K8RBQ)
@@ -88,9 +100,7 @@
   
   </b>
     
- <b>Projects</b>
-  - [TryHackMe (Pre-Security)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DGUKAKPIWH.png)
-  - [TryHackMe(Introduction to Cybersecurity)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QRVJXJB81L.png)
+
 
 
 
