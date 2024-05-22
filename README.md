@@ -67,7 +67,7 @@
      </head>
    </html>
 
-   <b>Projects</b>
+   <b>Completed Paths</b>
   - [TryHackMe (Pre-Security)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DGUKAKPIWH.png)
   - [TryHackMe(Introduction to Cybersecurity)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QRVJXJB81L.png)
 
