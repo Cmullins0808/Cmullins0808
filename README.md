@@ -7,9 +7,9 @@
 <b>Training</b>
 
   [IBM Artificial Intelligence Fundamentals Certification]()
-   - [Introduction to Artificial Intellience](https://skills.yourlearning.ibm.com/activity/MDL-211)
+   - Introduction to Artificial Intellience
    - Natural Language Processing and Computer Vision
-   - [Machine Learning and Deep Learning](https://skills.yourlearning.ibm.com/activity/MDL-212)
+   - Machine Learning and Deep Learning
    - Run AI Models with IBM Watson Studio
    - AI Ethics
    - Your Future in AI
