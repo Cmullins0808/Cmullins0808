@@ -1,6 +1,20 @@
 <h1>Hi, I'm Courtney! <br/><a href="https://www.credly.com/badges/4703e3e8-9f5b-4c4f-866c-54d20ef5eb2a">Cisco Certified Support Technician Networking</a>, <a href="https://www.linkedin.com/in/courtney-mullins-b611502a8//">IT Professional</a>, <a href="https://www.freecodecamp.org/CourtneyMullins">Early-stage Developer</a>, <a href="https://www.credly.com/badges/2d2a576b-7d83-42d3-b592-0bdd24a98acb/public_url">Jr. CyberSecurity Analyst</a></h1>
 
 
+
+<h2>Artificial Intelligence:</h2>
+
+<b>Training</b>
+
+  [IBM Artificial Intelligence Fundamentals Certification]()
+   - [Introduction to Artificial Intellience](https://skills.yourlearning.ibm.com/activity/MDL-211)
+   - Natural Language Processing and Computer Vision
+   - [Machine Learning and Deep Learning](https://skills.yourlearning.ibm.com/activity/MDL-212)
+   - Run AI Models with IBM Watson Studio
+   - AI Ethics
+   - Your Future in AI
+
+   
   
 <h2>👨‍💻 Network Support Technician:</h2>
 
