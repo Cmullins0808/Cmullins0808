@@ -6,7 +6,7 @@
 
 <b>Training</b>
 
-  [IBM Artificial Intelligence Fundamentals]()
+  [IBM Artificial Intelligence Fundamentals](https://www.credly.com/badges/2f3799fc-fc2e-4720-a980-8d444e6e3b70/public_url)
    - Introduction to Artificial Intellience
    - Natural Language Processing and Computer Vision
    - Machine Learning and Deep Learning
