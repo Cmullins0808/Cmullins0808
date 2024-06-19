@@ -6,7 +6,7 @@
 
 <b>Training</b>
 
-  [IBM Artificial Intelligence Fundamentals Certification]()
+  [IBM Artificial Intelligence Fundamentals]()
    - Introduction to Artificial Intellience
    - Natural Language Processing and Computer Vision
    - Machine Learning and Deep Learning
