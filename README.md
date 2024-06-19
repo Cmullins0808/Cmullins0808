@@ -1,10 +1,36 @@
 <h1>Hi, I'm Courtney! <br/><a href="https://www.credly.com/badges/4703e3e8-9f5b-4c4f-866c-54d20ef5eb2a">Cisco Certified Support Technician Networking</a>, <a href="https://www.linkedin.com/in/courtney-mullins-b611502a8//">IT Professional</a>, <a href="https://www.freecodecamp.org/CourtneyMullins">Early-stage Developer</a>, <a href="https://www.credly.com/badges/2d2a576b-7d83-42d3-b592-0bdd24a98acb/public_url">Jr. CyberSecurity Analyst</a></h1>
 
 
+<h2>IT Support Experience</h2>
 
-<h2>Artificial Intelligence:</h2>
 
-<b>Training</b>
+   <b>Metronet</b>
+   
+    -Strategic Business Technical Support(Current)
+    -Customer trouble isolation and repair
+    -Document issues and incidents across the voice, video, and IP network
+    -Recognizes, acknowledges, fixes, documents, and clear customer trouble tickets 
+    -Provides support through troubleshooting customer issues, analyzes customer records 
+    -Works closely with Field Technicians to resolve customer issues
+    
+  <b>NRTC</b>
+  
+    -Helpdesk Technician Temporary Assignment (2023)
+    -Troubleshooting in a MSP for A ISP
+    -Via inbound calls, email, and chat
+    -Including Ticketing(Jira) and Escalations
+   
+   <b>Convergys</b>
+   
+    -Customer Service Representative (2 years)
+    -Troubleshooting wireless celllular 
+    -Via inbound calls
+    -Including Ticketing(ServiceNow) and Escalations
+
+
+  <h2>Certifications</h2>
+
+<b>Artificial Intelligence:</b>
 
   [IBM Artificial Intelligence Fundamentals](https://www.credly.com/badges/2f3799fc-fc2e-4720-a980-8d444e6e3b70/public_url)
    - Introduction to Artificial Intellience
@@ -16,9 +42,8 @@
 
    
   
-<h2>👨‍💻 Network Support Technician:</h2>
+<b>Network Support Technician:</b>
 
-<b>Training</b>
 
  [Cisco CCST Networking Certification](https://www.credly.com/badges/4703e3e8-9f5b-4c4f-866c-54d20ef5eb2a/public_url)
   - [Networking Basics](https://www.credly.com/badges/5faa9340-f59f-4f5a-b0ef-319b04396d6b/public_url)
@@ -27,9 +52,8 @@
   - [Network Support and Security](https://www.credly.com/badges/38d2f62c-ebb6-43a6-a9f2-74d345707f2f/public_url)
   - [Network Technician Career Path Exam](https://www.credly.com/badges/f4f0a874-bb15-4450-864e-f19b61bb525c/public_url)
     
-<h2>👨‍💻 Help Desk Technician:</h2>
+<b>Help Desk Technician:</b>
 
-<b>Training</b>
 
  [Google IT Support Professional Certificate](https://www.credly.com/badges/de3f67df-4fb0-4a1e-ae96-ecb06df857b4/public_url)
   - [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/EMHHRHG4AUVH)
@@ -40,21 +64,9 @@
 
  [Jason Dion's CompTIA A+ Core 1 course Certificate](https://www.udemy.com/certificate/UC-1a805d5d-739a-4a09-b14a-af9b5169939d/)
 
-<b>Experience</b>
 
-  TeKSystems
-   -Helpdesk Technician Temporary Assignment (3 months)
-   -Troubleshooting in a MSP for A ISP
-   -Via inbound calls, email, and chat
-   -Including Ticketing(Jira) and Escalations
-   
-   Convergys
-   -Customer Service Representative (2 years)
-   -Troubleshooting wireless celllular 
-   -Via inbound calls
-   -Including Ticketing(ServiceNow) and Escalations
 
-   <h2>Microsoft Azure</h2>  
+   <b>Microsoft Azure</b>  
 
 <b>[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/CourtneyMullins-8507/A40DCCA646AF83C4?sharingId=5A4DF95A1C902EAE)<b>
 
@@ -62,6 +74,7 @@
  - [Describe the Azure architecture and services](https://learn.microsoft.com/api/achievements/share/en-us/CourtneyMullins-8507/JCG4PQHT?sharingId=5A4DF95A1C902EAE0)
  - [Describe Azure Management and governance](https://learn.microsoft.com/api/achievements/share/en-us/CourtneyMullins-8507/HRX9FSQ8?sharingId=5A4DF95A1C902EAE)
    
+
  <b>Azure Administrator Associate(In- Progress)</b>
  
  - [Pre-requisites for Azure Administrator](https://learn.microsoft.com/api/achievements/share/en-us/CourtneyMullins-8507/UXY5ADL3?sharingId=5A4DF95A1C902EAE) 
@@ -71,9 +84,8 @@
  - Configure and manage virtual networks for Azure administrators
  - Monitor and back up Azure resources
 
-   <h2>👨‍💻 Jr. Cybersecurity Analyst:</h2>
+<h2>Cybersecurity</h2>
 
-  <b>Training</b>
 
    <html>
      <head>
@@ -85,7 +97,7 @@
   - [TryHackMe (Pre-Security)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DGUKAKPIWH.png)
   - [TryHackMe(Introduction to Cybersecurity)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QRVJXJB81L.png)
 
-  <b>Certifications</b>
+  <h2>Certifications</h2>
   
   [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/2d2a576b-7d83-42d3-b592-0bdd24a98acb/public_url)
   - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/XHPGBZ7K8RBQ)
@@ -106,7 +118,7 @@
   - Cyber Threat Management
   - Junior Cybersecurity Analyst Career Path Exam
 
-<h2>👨‍💻 Software Development</h2>
+<h2>Software Development</h2>
 
  <b>Responsive Web Design</b>
  
