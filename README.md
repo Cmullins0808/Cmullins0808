@@ -27,6 +27,14 @@
     -Via inbound calls
     -Including Ticketing(ServiceNow) and Escalations
 
+<h2>Education</h2>
+
+   <b>Associate of Science Austin Peay State University 8/2024</b>
+
+   <b>Bachelor of Science Agriculture Austin Peay State Unversity 12/2024</b>
+
+   
+
 
   <h2>Certifications</h2>
 
