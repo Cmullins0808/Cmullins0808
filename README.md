@@ -97,8 +97,8 @@
 
    <html>
      <head>
-       <img src="https://tryhackme-badges.s3.amazonaws.com/Bullishshe.png" alt="TryHackMe">
-     </head>
+       <img src="https://tryhackme-badges.s3.amazonaws.com/Bullishshe.png" alt="Your Image Badge" />
+</head>
    </html>
 
    <b>Completed Paths</b>
